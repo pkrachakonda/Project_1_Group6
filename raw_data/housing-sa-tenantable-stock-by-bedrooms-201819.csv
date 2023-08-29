@@ -1,0 +1,1043 @@
+EndOfMonth,OfficeName,Suburb,Bedrooms_Group,Tenantable Stock
+2019-06,Adelaide,ADELAIDE,1 Bedroom,107
+2019-06,Adelaide,ADELAIDE,2 Bedrooms,188
+2019-06,Adelaide,ADELAIDE,3 Bedrooms,32
+2019-06,Adelaide,ATHELSTONE,2 Bedrooms,2
+2019-06,Adelaide,ATHELSTONE,3 Bedrooms,3
+2019-06,Adelaide,ATHELSTONE,4+ Bedrooms,1
+2019-06,Adelaide,BEULAH PARK,1 Bedroom,1
+2019-06,Adelaide,BEULAH PARK,2 Bedrooms,3
+2019-06,Adelaide,BEULAH PARK,3 Bedrooms,1
+2019-06,Adelaide,BLACK FOREST,1 Bedroom,1
+2019-06,Adelaide,BLACK FOREST,2 Bedrooms,27
+2019-06,Adelaide,BLACK FOREST,3 Bedrooms,31
+2019-06,Adelaide,BURNSIDE,2 Bedrooms,1
+2019-06,Adelaide,CAMPBELLTOWN,1 Bedroom,18
+2019-06,Adelaide,CAMPBELLTOWN,2 Bedrooms,60
+2019-06,Adelaide,CAMPBELLTOWN,3 Bedrooms,53
+2019-06,Adelaide,CAMPBELLTOWN,4+ Bedrooms,10
+2019-06,Adelaide,CLARENCE PARK,2 Bedrooms,11
+2019-06,Adelaide,CLARENCE PARK,3 Bedrooms,2
+2019-06,Adelaide,COLLINSWOOD,2 Bedrooms,12
+2019-06,Adelaide,COLLINSWOOD,4+ Bedrooms,1
+2019-06,Adelaide,DULWICH,1 Bedroom,7
+2019-06,Adelaide,DULWICH,2 Bedrooms,6
+2019-06,Adelaide,EASTWOOD,1 Bedroom,3
+2019-06,Adelaide,EASTWOOD,2 Bedrooms,27
+2019-06,Adelaide,EASTWOOD,3 Bedrooms,1
+2019-06,Adelaide,EVERARD PARK,1 Bedroom,16
+2019-06,Adelaide,EVERARD PARK,2 Bedrooms,24
+2019-06,Adelaide,EVERARD PARK,3 Bedrooms,7
+2019-06,Adelaide,FELIXSTOW,2 Bedrooms,9
+2019-06,Adelaide,FELIXSTOW,3 Bedrooms,8
+2019-06,Adelaide,FORESTVILLE,1 Bedroom,2
+2019-06,Adelaide,FORESTVILLE,2 Bedrooms,17
+2019-06,Adelaide,FORESTVILLE,3 Bedrooms,7
+2019-06,Adelaide,FREWVILLE,2 Bedrooms,3
+2019-06,Adelaide,FULLARTON,1 Bedroom,35
+2019-06,Adelaide,FULLARTON,2 Bedrooms,70
+2019-06,Adelaide,GILBERTON,1 Bedroom,26
+2019-06,Adelaide,GILBERTON,2 Bedrooms,125
+2019-06,Adelaide,GLENSIDE,1 Bedroom,12
+2019-06,Adelaide,GLENSIDE,2 Bedrooms,77
+2019-06,Adelaide,GLYNDE,2 Bedrooms,15
+2019-06,Adelaide,GLYNDE,3 Bedrooms,4
+2019-06,Adelaide,GOODWOOD,1 Bedroom,13
+2019-06,Adelaide,GOODWOOD,2 Bedrooms,31
+2019-06,Adelaide,GOODWOOD,3 Bedrooms,1
+2019-06,Adelaide,GOODWOOD,4+ Bedrooms,1
+2019-06,Adelaide,HACKNEY,1 Bedroom,17
+2019-06,Adelaide,HACKNEY,2 Bedrooms,3
+2019-06,Adelaide,HACKNEY,3 Bedrooms,9
+2019-06,Adelaide,HAZELWOOD PARK,2 Bedrooms,1
+2019-06,Adelaide,HECTORVILLE,1 Bedroom,8
+2019-06,Adelaide,HECTORVILLE,2 Bedrooms,105
+2019-06,Adelaide,HECTORVILLE,3 Bedrooms,28
+2019-06,Adelaide,HECTORVILLE,4+ Bedrooms,1
+2019-06,Adelaide,HYDE PARK,2 Bedrooms,2
+2019-06,Adelaide,HYDE PARK,3 Bedrooms,2
+2019-06,Adelaide,KENSINGTON,1 Bedroom,21
+2019-06,Adelaide,KENSINGTON,2 Bedrooms,53
+2019-06,Adelaide,KENSINGTON,3 Bedrooms,21
+2019-06,Adelaide,KENSINGTON,4+ Bedrooms,1
+2019-06,Adelaide,KENSINGTON PARK,1 Bedroom,14
+2019-06,Adelaide,KENSINGTON PARK,2 Bedrooms,7
+2019-06,Adelaide,KENT TOWN,1 Bedroom,37
+2019-06,Adelaide,KENT TOWN,2 Bedrooms,54
+2019-06,Adelaide,KENT TOWN,3 Bedrooms,13
+2019-06,Adelaide,MAGILL,1 Bedroom,11
+2019-06,Adelaide,MAGILL,2 Bedrooms,133
+2019-06,Adelaide,MAGILL,3 Bedrooms,34
+2019-06,Adelaide,MAGILL,4+ Bedrooms,2
+2019-06,Adelaide,MALVERN,1 Bedroom,3
+2019-06,Adelaide,MARDEN,2 Bedrooms,18
+2019-06,Adelaide,MARDEN,3 Bedrooms,1
+2019-06,Adelaide,MAYLANDS,1 Bedroom,12
+2019-06,Adelaide,MAYLANDS,2 Bedrooms,39
+2019-06,Adelaide,MAYLANDS,3 Bedrooms,12
+2019-06,Adelaide,MYRTLE BANK,1 Bedroom,1
+2019-06,Adelaide,MYRTLE BANK,2 Bedrooms,2
+2019-06,Adelaide,MYRTLE BANK,3 Bedrooms,2
+2019-06,Adelaide,NAILSWORTH,1 Bedroom,16
+2019-06,Adelaide,NAILSWORTH,2 Bedrooms,49
+2019-06,Adelaide,NAILSWORTH,3 Bedrooms,3
+2019-06,Adelaide,NAILSWORTH,4+ Bedrooms,1
+2019-06,Adelaide,NEWTON,1 Bedroom,7
+2019-06,Adelaide,NEWTON,2 Bedrooms,17
+2019-06,Adelaide,NEWTON,3 Bedrooms,8
+2019-06,Adelaide,NEWTON,4+ Bedrooms,1
+2019-06,Adelaide,NORTH ADELAIDE,1 Bedroom,22
+2019-06,Adelaide,NORTH ADELAIDE,2 Bedrooms,7
+2019-06,Adelaide,NORTH ADELAIDE,3 Bedrooms,3
+2019-06,Adelaide,NORWOOD,1 Bedroom,34
+2019-06,Adelaide,NORWOOD,2 Bedrooms,82
+2019-06,Adelaide,NORWOOD,3 Bedrooms,18
+2019-06,Adelaide,PARADISE,2 Bedrooms,45
+2019-06,Adelaide,PARADISE,3 Bedrooms,50
+2019-06,Adelaide,PARKSIDE,1 Bedroom,10
+2019-06,Adelaide,PARKSIDE,2 Bedrooms,70
+2019-06,Adelaide,PARKSIDE,3 Bedrooms,3
+2019-06,Adelaide,PAYNEHAM,1 Bedroom,24
+2019-06,Adelaide,PAYNEHAM,2 Bedrooms,34
+2019-06,Adelaide,PAYNEHAM SOUTH,1 Bedroom,11
+2019-06,Adelaide,PAYNEHAM SOUTH,2 Bedrooms,12
+2019-06,Adelaide,PROSPECT,1 Bedroom,17
+2019-06,Adelaide,PROSPECT,2 Bedrooms,83
+2019-06,Adelaide,PROSPECT,3 Bedrooms,42
+2019-06,Adelaide,PROSPECT,4+ Bedrooms,6
+2019-06,Adelaide,ROSE PARK,2 Bedrooms,3
+2019-06,Adelaide,ROSTREVOR,1 Bedroom,3
+2019-06,Adelaide,ROSTREVOR,2 Bedrooms,5
+2019-06,Adelaide,ROSTREVOR,3 Bedrooms,2
+2019-06,Adelaide,ROSTREVOR,4+ Bedrooms,2
+2019-06,Adelaide,ROYSTON PARK,2 Bedrooms,1
+2019-06,Adelaide,ST MORRIS,2 Bedrooms,7
+2019-06,Adelaide,ST MORRIS,3 Bedrooms,2
+2019-06,Adelaide,ST MORRIS,4+ Bedrooms,1
+2019-06,Adelaide,ST PETERS,1 Bedroom,1
+2019-06,Adelaide,ST PETERS,2 Bedrooms,7
+2019-06,Adelaide,ST PETERS,3 Bedrooms,3
+2019-06,Adelaide,TOORAK GARDENS,2 Bedrooms,3
+2019-06,Adelaide,TRANMERE,2 Bedrooms,18
+2019-06,Adelaide,TRANMERE,3 Bedrooms,22
+2019-06,Adelaide,TRANMERE,4+ Bedrooms,2
+2019-06,Adelaide,TRINITY GARDENS,2 Bedrooms,4
+2019-06,Adelaide,UNLEY,1 Bedroom,5
+2019-06,Adelaide,UNLEY,2 Bedrooms,41
+2019-06,Adelaide,UNLEY,3 Bedrooms,1
+2019-06,Adelaide,VALE PARK,1 Bedroom,2
+2019-06,Adelaide,WALKERVILLE,1 Bedroom,29
+2019-06,Adelaide,WALKERVILLE,2 Bedrooms,2
+2019-06,Adelaide,WAYVILLE,2 Bedrooms,2
+2019-06,Adelaide,WAYVILLE,3 Bedrooms,3
+2019-06,Elizabeth,ANDREWS FARM,2 Bedrooms,3
+2019-06,Elizabeth,ANDREWS FARM,3 Bedrooms,18
+2019-06,Elizabeth,ANDREWS FARM,4+ Bedrooms,7
+2019-06,Elizabeth,BLAKEVIEW,2 Bedrooms,5
+2019-06,Elizabeth,BLAKEVIEW,3 Bedrooms,12
+2019-06,Elizabeth,BLAKEVIEW,4+ Bedrooms,1
+2019-06,Elizabeth,CRAIGMORE,2 Bedrooms,2
+2019-06,Elizabeth,CRAIGMORE,3 Bedrooms,98
+2019-06,Elizabeth,CRAIGMORE,4+ Bedrooms,3
+2019-06,Elizabeth,DAVOREN PARK,1 Bedroom,40
+2019-06,Elizabeth,DAVOREN PARK,2 Bedrooms,67
+2019-06,Elizabeth,DAVOREN PARK,3 Bedrooms,193
+2019-06,Elizabeth,DAVOREN PARK,4+ Bedrooms,14
+2019-06,Elizabeth,ELIZABETH,1 Bedroom,15
+2019-06,Elizabeth,ELIZABETH,2 Bedrooms,80
+2019-06,Elizabeth,ELIZABETH,3 Bedrooms,13
+2019-06,Elizabeth,ELIZABETH,4+ Bedrooms,1
+2019-06,Elizabeth,ELIZABETH DOWNS,1 Bedroom,24
+2019-06,Elizabeth,ELIZABETH DOWNS,2 Bedrooms,67
+2019-06,Elizabeth,ELIZABETH DOWNS,3 Bedrooms,132
+2019-06,Elizabeth,ELIZABETH DOWNS,4+ Bedrooms,12
+2019-06,Elizabeth,ELIZABETH EAST,1 Bedroom,84
+2019-06,Elizabeth,ELIZABETH EAST,2 Bedrooms,151
+2019-06,Elizabeth,ELIZABETH EAST,3 Bedrooms,179
+2019-06,Elizabeth,ELIZABETH EAST,4+ Bedrooms,17
+2019-06,Elizabeth,ELIZABETH GROVE,4+ Bedrooms,2
+2019-06,Elizabeth,ELIZABETH NORTH,1 Bedroom,64
+2019-06,Elizabeth,ELIZABETH NORTH,2 Bedrooms,95
+2019-06,Elizabeth,ELIZABETH NORTH,3 Bedrooms,103
+2019-06,Elizabeth,ELIZABETH NORTH,4+ Bedrooms,3
+2019-06,Elizabeth,ELIZABETH PARK,1 Bedroom,36
+2019-06,Elizabeth,ELIZABETH PARK,2 Bedrooms,95
+2019-06,Elizabeth,ELIZABETH PARK,3 Bedrooms,118
+2019-06,Elizabeth,ELIZABETH PARK,4+ Bedrooms,10
+2019-06,Elizabeth,ELIZABETH SOUTH,1 Bedroom,30
+2019-06,Elizabeth,ELIZABETH SOUTH,2 Bedrooms,108
+2019-06,Elizabeth,ELIZABETH SOUTH,3 Bedrooms,213
+2019-06,Elizabeth,ELIZABETH SOUTH,4+ Bedrooms,19
+2019-06,Elizabeth,ELIZABETH VALE,1 Bedroom,29
+2019-06,Elizabeth,ELIZABETH VALE,2 Bedrooms,52
+2019-06,Elizabeth,ELIZABETH VALE,3 Bedrooms,100
+2019-06,Elizabeth,ELIZABETH VALE,4+ Bedrooms,22
+2019-06,Elizabeth,MUNNO PARA,2 Bedrooms,150
+2019-06,Elizabeth,MUNNO PARA,3 Bedrooms,118
+2019-06,Elizabeth,MUNNO PARA,4+ Bedrooms,28
+2019-06,Elizabeth,MUNNO PARA WEST,2 Bedrooms,1
+2019-06,Elizabeth,MUNNO PARA WEST,3 Bedrooms,1
+2019-06,Elizabeth,SMITHFIELD,1 Bedroom,6
+2019-06,Elizabeth,SMITHFIELD,2 Bedrooms,20
+2019-06,Elizabeth,SMITHFIELD,3 Bedrooms,149
+2019-06,Elizabeth,SMITHFIELD PLAINS,1 Bedroom,19
+2019-06,Elizabeth,SMITHFIELD PLAINS,2 Bedrooms,38
+2019-06,Elizabeth,SMITHFIELD PLAINS,3 Bedrooms,107
+2019-06,Elizabeth,SMITHFIELD PLAINS,4+ Bedrooms,10
+2019-06,Gawler,ANGASTON,1 Bedroom,13
+2019-06,Gawler,ANGASTON,2 Bedrooms,1
+2019-06,Gawler,ANGASTON,3 Bedrooms,42
+2019-06,Gawler,ANGASTON,4+ Bedrooms,1
+2019-06,Gawler,EVANSTON,1 Bedroom,9
+2019-06,Gawler,EVANSTON,2 Bedrooms,49
+2019-06,Gawler,EVANSTON,3 Bedrooms,84
+2019-06,Gawler,EVANSTON,4+ Bedrooms,1
+2019-06,Gawler,EVANSTON GARDENS,2 Bedrooms,11
+2019-06,Gawler,EVANSTON GARDENS,3 Bedrooms,29
+2019-06,Gawler,EVANSTON GARDENS,4+ Bedrooms,2
+2019-06,Gawler,EVANSTON PARK,2 Bedrooms,5
+2019-06,Gawler,EVANSTON PARK,3 Bedrooms,9
+2019-06,Gawler,FREELING,3 Bedrooms,6
+2019-06,Gawler,GAWLER,1 Bedroom,23
+2019-06,Gawler,GAWLER,2 Bedrooms,4
+2019-06,Gawler,GAWLER EAST,3 Bedrooms,11
+2019-06,Gawler,GAWLER SOUTH,1 Bedroom,33
+2019-06,Gawler,GAWLER SOUTH,2 Bedrooms,4
+2019-06,Gawler,GAWLER SOUTH,3 Bedrooms,28
+2019-06,Gawler,GAWLER SOUTH,4+ Bedrooms,1
+2019-06,Gawler,GAWLER WEST,2 Bedrooms,77
+2019-06,Gawler,GAWLER WEST,3 Bedrooms,61
+2019-06,Gawler,GAWLER WEST,4+ Bedrooms,2
+2019-06,Gawler,KAPUNDA,1 Bedroom,12
+2019-06,Gawler,KAPUNDA,2 Bedrooms,5
+2019-06,Gawler,KAPUNDA,3 Bedrooms,12
+2019-06,Gawler,LYNDOCH,2 Bedrooms,1
+2019-06,Gawler,NURIOOTPA,2 Bedrooms,12
+2019-06,Gawler,NURIOOTPA,3 Bedrooms,37
+2019-06,Gawler,NURIOOTPA,4+ Bedrooms,1
+2019-06,Gawler,TANUNDA,2 Bedrooms,3
+2019-06,Gawler,TANUNDA,3 Bedrooms,4
+2019-06,Gawler,TWO WELLS,1 Bedroom,7
+2019-06,Gawler,WASLEYS,3 Bedrooms,1
+2019-06,Gawler,WILLASTON,1 Bedroom,9
+2019-06,Gawler,WILLASTON,2 Bedrooms,2
+2019-06,Gawler,WILLASTON,3 Bedrooms,23
+2019-06,Gawler,WILLASTON,4+ Bedrooms,1
+2019-06,Modbury,BANKSIA PARK,3 Bedrooms,1
+2019-06,Modbury,BLAIR ATHOL,1 Bedroom,8
+2019-06,Modbury,BLAIR ATHOL,2 Bedrooms,107
+2019-06,Modbury,BLAIR ATHOL,3 Bedrooms,111
+2019-06,Modbury,BLAIR ATHOL,4+ Bedrooms,12
+2019-06,Modbury,BROADVIEW,2 Bedrooms,48
+2019-06,Modbury,BROADVIEW,3 Bedrooms,23
+2019-06,Modbury,BROADVIEW,4+ Bedrooms,3
+2019-06,Modbury,CLEARVIEW,2 Bedrooms,6
+2019-06,Modbury,CLEARVIEW,3 Bedrooms,4
+2019-06,Modbury,DERNANCOURT,3 Bedrooms,3
+2019-06,Modbury,DRY CREEK,3 Bedrooms,1
+2019-06,Modbury,ENFIELD,2 Bedrooms,24
+2019-06,Modbury,ENFIELD,3 Bedrooms,5
+2019-06,Modbury,ENFIELD,4+ Bedrooms,6
+2019-06,Modbury,GEPPS CROSS,3 Bedrooms,12
+2019-06,Modbury,GILLES PLAINS,1 Bedroom,36
+2019-06,Modbury,GILLES PLAINS,2 Bedrooms,104
+2019-06,Modbury,GILLES PLAINS,3 Bedrooms,93
+2019-06,Modbury,GILLES PLAINS,4+ Bedrooms,18
+2019-06,Modbury,GREENACRES,1 Bedroom,7
+2019-06,Modbury,GREENACRES,2 Bedrooms,39
+2019-06,Modbury,GREENACRES,3 Bedrooms,26
+2019-06,Modbury,GREENACRES,4+ Bedrooms,6
+2019-06,Modbury,HAMPSTEAD GARDENS,1 Bedroom,2
+2019-06,Modbury,HAMPSTEAD GARDENS,2 Bedrooms,22
+2019-06,Modbury,HAMPSTEAD GARDENS,3 Bedrooms,7
+2019-06,Modbury,HAMPSTEAD GARDENS,4+ Bedrooms,1
+2019-06,Modbury,HIGHBURY,2 Bedrooms,3
+2019-06,Modbury,HILLCREST,1 Bedroom,5
+2019-06,Modbury,HILLCREST,2 Bedrooms,38
+2019-06,Modbury,HILLCREST,3 Bedrooms,70
+2019-06,Modbury,HILLCREST,4+ Bedrooms,7
+2019-06,Modbury,HOLDEN HILL,1 Bedroom,13
+2019-06,Modbury,HOLDEN HILL,2 Bedrooms,82
+2019-06,Modbury,HOLDEN HILL,3 Bedrooms,52
+2019-06,Modbury,HOLDEN HILL,4+ Bedrooms,4
+2019-06,Modbury,HOPE VALLEY,2 Bedrooms,19
+2019-06,Modbury,HOPE VALLEY,3 Bedrooms,28
+2019-06,Modbury,HOPE VALLEY,4+ Bedrooms,1
+2019-06,Modbury,KILBURN,1 Bedroom,36
+2019-06,Modbury,KILBURN,2 Bedrooms,234
+2019-06,Modbury,KILBURN,3 Bedrooms,228
+2019-06,Modbury,KILBURN,4+ Bedrooms,23
+2019-06,Modbury,KLEMZIG,2 Bedrooms,36
+2019-06,Modbury,KLEMZIG,3 Bedrooms,18
+2019-06,Modbury,KLEMZIG,4+ Bedrooms,3
+2019-06,Modbury,LIGHTSVIEW,3 Bedrooms,4
+2019-06,Modbury,MANNINGHAM,4+ Bedrooms,1
+2019-06,Modbury,MODBURY,2 Bedrooms,11
+2019-06,Modbury,MODBURY,3 Bedrooms,39
+2019-06,Modbury,MODBURY,4+ Bedrooms,1
+2019-06,Modbury,MODBURY HEIGHTS,1 Bedroom,45
+2019-06,Modbury,MODBURY HEIGHTS,2 Bedrooms,18
+2019-06,Modbury,MODBURY HEIGHTS,3 Bedrooms,32
+2019-06,Modbury,MODBURY HEIGHTS,4+ Bedrooms,3
+2019-06,Modbury,MODBURY NORTH,3 Bedrooms,14
+2019-06,Modbury,MODBURY NORTH,4+ Bedrooms,2
+2019-06,Modbury,NORTHFIELD,2 Bedrooms,35
+2019-06,Modbury,NORTHFIELD,3 Bedrooms,14
+2019-06,Modbury,NORTHFIELD,4+ Bedrooms,6
+2019-06,Modbury,NORTHGATE,2 Bedrooms,4
+2019-06,Modbury,OAKDEN,2 Bedrooms,10
+2019-06,Modbury,OAKDEN,3 Bedrooms,1
+2019-06,Modbury,OAKDEN,4+ Bedrooms,1
+2019-06,Modbury,PARA VISTA,1 Bedroom,4
+2019-06,Modbury,PARA VISTA,2 Bedrooms,40
+2019-06,Modbury,PARA VISTA,3 Bedrooms,101
+2019-06,Modbury,REDWOOD PARK,3 Bedrooms,2
+2019-06,Modbury,RIDGEHAVEN,1 Bedroom,8
+2019-06,Modbury,RIDGEHAVEN,2 Bedrooms,16
+2019-06,Modbury,RIDGEHAVEN,3 Bedrooms,8
+2019-06,Modbury,RIDGEHAVEN,4+ Bedrooms,1
+2019-06,Modbury,SEFTON PARK,2 Bedrooms,4
+2019-06,Modbury,ST AGNES,1 Bedroom,17
+2019-06,Modbury,ST AGNES,2 Bedrooms,8
+2019-06,Modbury,ST AGNES,3 Bedrooms,2
+2019-06,Modbury,SURREY DOWNS,1 Bedroom,9
+2019-06,Modbury,SURREY DOWNS,2 Bedrooms,13
+2019-06,Modbury,SURREY DOWNS,3 Bedrooms,50
+2019-06,Modbury,SURREY DOWNS,4+ Bedrooms,2
+2019-06,Modbury,TEA TREE GULLY,3 Bedrooms,1
+2019-06,Modbury,VALLEY VIEW,2 Bedrooms,1
+2019-06,Modbury,VALLEY VIEW,3 Bedrooms,16
+2019-06,Modbury,VALLEY VIEW,4+ Bedrooms,2
+2019-06,Modbury,WINDSOR GARDENS,2 Bedrooms,8
+2019-06,Modbury,WINDSOR GARDENS,3 Bedrooms,6
+2019-06,Modbury,WINDSOR GARDENS,4+ Bedrooms,3
+2019-06,Modbury,WYNN VALE,1 Bedroom,11
+2019-06,Modbury,WYNN VALE,2 Bedrooms,96
+2019-06,Modbury,WYNN VALE,3 Bedrooms,126
+2019-06,Modbury,WYNN VALE,4+ Bedrooms,2
+2019-06,Salisbury,BRAHMA LODGE,1 Bedroom,16
+2019-06,Salisbury,BRAHMA LODGE,2 Bedrooms,11
+2019-06,Salisbury,BRAHMA LODGE,3 Bedrooms,43
+2019-06,Salisbury,BRAHMA LODGE,4+ Bedrooms,5
+2019-06,Salisbury,BURTON,2 Bedrooms,11
+2019-06,Salisbury,BURTON,3 Bedrooms,26
+2019-06,Salisbury,BURTON,4+ Bedrooms,9
+2019-06,Salisbury,GOLDEN GROVE,1 Bedroom,10
+2019-06,Salisbury,GOLDEN GROVE,2 Bedrooms,164
+2019-06,Salisbury,GOLDEN GROVE,3 Bedrooms,82
+2019-06,Salisbury,GOLDEN GROVE,4+ Bedrooms,6
+2019-06,Salisbury,GREENWITH,2 Bedrooms,154
+2019-06,Salisbury,GREENWITH,3 Bedrooms,125
+2019-06,Salisbury,GREENWITH,4+ Bedrooms,14
+2019-06,Salisbury,GULFVIEW HEIGHTS,2 Bedrooms,1
+2019-06,Salisbury,GULFVIEW HEIGHTS,4+ Bedrooms,1
+2019-06,Salisbury,INGLE FARM,1 Bedroom,23
+2019-06,Salisbury,INGLE FARM,2 Bedrooms,46
+2019-06,Salisbury,INGLE FARM,3 Bedrooms,101
+2019-06,Salisbury,INGLE FARM,4+ Bedrooms,7
+2019-06,Salisbury,MAWSON LAKES,2 Bedrooms,16
+2019-06,Salisbury,MAWSON LAKES,3 Bedrooms,6
+2019-06,Salisbury,PARA HILLS,3 Bedrooms,14
+2019-06,Salisbury,PARA HILLS WEST,1 Bedroom,77
+2019-06,Salisbury,PARA HILLS WEST,2 Bedrooms,40
+2019-06,Salisbury,PARA HILLS WEST,3 Bedrooms,104
+2019-06,Salisbury,PARA HILLS WEST,4+ Bedrooms,3
+2019-06,Salisbury,PARAFIELD GARDENS,1 Bedroom,68
+2019-06,Salisbury,PARAFIELD GARDENS,2 Bedrooms,167
+2019-06,Salisbury,PARAFIELD GARDENS,3 Bedrooms,340
+2019-06,Salisbury,PARAFIELD GARDENS,4+ Bedrooms,27
+2019-06,Salisbury,PARALOWIE,2 Bedrooms,19
+2019-06,Salisbury,PARALOWIE,3 Bedrooms,148
+2019-06,Salisbury,PARALOWIE,4+ Bedrooms,21
+2019-06,Salisbury,POORAKA,1 Bedroom,39
+2019-06,Salisbury,POORAKA,2 Bedrooms,57
+2019-06,Salisbury,POORAKA,3 Bedrooms,129
+2019-06,Salisbury,POORAKA,4+ Bedrooms,13
+2019-06,Salisbury,SALISBURY,1 Bedroom,78
+2019-06,Salisbury,SALISBURY,2 Bedrooms,86
+2019-06,Salisbury,SALISBURY,3 Bedrooms,43
+2019-06,Salisbury,SALISBURY,4+ Bedrooms,3
+2019-06,Salisbury,SALISBURY DOWNS,1 Bedroom,36
+2019-06,Salisbury,SALISBURY DOWNS,2 Bedrooms,91
+2019-06,Salisbury,SALISBURY DOWNS,3 Bedrooms,172
+2019-06,Salisbury,SALISBURY DOWNS,4+ Bedrooms,9
+2019-06,Salisbury,SALISBURY EAST,1 Bedroom,38
+2019-06,Salisbury,SALISBURY EAST,2 Bedrooms,56
+2019-06,Salisbury,SALISBURY EAST,3 Bedrooms,71
+2019-06,Salisbury,SALISBURY EAST,4+ Bedrooms,3
+2019-06,Salisbury,SALISBURY HEIGHTS,3 Bedrooms,18
+2019-06,Salisbury,SALISBURY NORTH,1 Bedroom,104
+2019-06,Salisbury,SALISBURY NORTH,2 Bedrooms,217
+2019-06,Salisbury,SALISBURY NORTH,3 Bedrooms,256
+2019-06,Salisbury,SALISBURY NORTH,4+ Bedrooms,25
+2019-06,Salisbury,SALISBURY PARK,1 Bedroom,11
+2019-06,Salisbury,SALISBURY PARK,2 Bedrooms,30
+2019-06,Salisbury,SALISBURY PARK,3 Bedrooms,76
+2019-06,Salisbury,SALISBURY PARK,4+ Bedrooms,5
+2019-06,Salisbury,SALISBURY PLAIN,2 Bedrooms,26
+2019-06,Salisbury,SALISBURY PLAIN,3 Bedrooms,29
+2019-06,Salisbury,WALKLEY HEIGHTS,2 Bedrooms,2
+2019-06,Salisbury,WALKLEY HEIGHTS,3 Bedrooms,36
+2019-06,Salisbury,WALKLEY HEIGHTS,4+ Bedrooms,17
+2019-06,Coober Pedy,COOBER PEDY,1 Bedroom,4
+2019-06,Coober Pedy,COOBER PEDY,2 Bedrooms,18
+2019-06,Coober Pedy,COOBER PEDY,3 Bedrooms,66
+2019-06,Coober Pedy,COOBER PEDY,4+ Bedrooms,14
+2019-06,Port Augusta,COPLEY,2 Bedrooms,4
+2019-06,Port Augusta,COPLEY,3 Bedrooms,7
+2019-06,Port Augusta,COPLEY,4+ Bedrooms,1
+2019-06,Port Augusta,HAWKER,2 Bedrooms,1
+2019-06,Port Augusta,HAWKER,3 Bedrooms,4
+2019-06,Port Augusta,HAWKER,4+ Bedrooms,1
+2019-06,Port Augusta,IRON KNOB,3 Bedrooms,3
+2019-06,Port Augusta,MARREE,2 Bedrooms,2
+2019-06,Port Augusta,MARREE,3 Bedrooms,8
+2019-06,Port Augusta,MARREE,4+ Bedrooms,3
+2019-06,Port Augusta,PORT AUGUSTA,1 Bedroom,37
+2019-06,Port Augusta,PORT AUGUSTA,2 Bedrooms,133
+2019-06,Port Augusta,PORT AUGUSTA,3 Bedrooms,237
+2019-06,Port Augusta,PORT AUGUSTA,4+ Bedrooms,22
+2019-06,Port Augusta,PORT AUGUSTA WEST,1 Bedroom,27
+2019-06,Port Augusta,PORT AUGUSTA WEST,2 Bedrooms,24
+2019-06,Port Augusta,PORT AUGUSTA WEST,3 Bedrooms,271
+2019-06,Port Augusta,PORT AUGUSTA WEST,4+ Bedrooms,9
+2019-06,Port Augusta,QUORN,1 Bedroom,12
+2019-06,Port Augusta,QUORN,2 Bedrooms,4
+2019-06,Port Augusta,QUORN,3 Bedrooms,13
+2019-06,Port Augusta,QUORN,4+ Bedrooms,2
+2019-06,Port Augusta,STIRLING NORTH,3 Bedrooms,4
+2019-06,Port Augusta,STIRLING NORTH,4+ Bedrooms,4
+2019-06,Port Pirie,ARDROSSAN,1 Bedroom,14
+2019-06,Port Pirie,ARDROSSAN,2 Bedrooms,5
+2019-06,Port Pirie,ARDROSSAN,3 Bedrooms,9
+2019-06,Port Pirie,BALAKLAVA,1 Bedroom,4
+2019-06,Port Pirie,BALAKLAVA,3 Bedrooms,2
+2019-06,Port Pirie,BOOLEROO CENTRE,1 Bedroom,2
+2019-06,Port Pirie,BOOLEROO CENTRE,2 Bedrooms,2
+2019-06,Port Pirie,BURRA,1 Bedroom,5
+2019-06,Port Pirie,BURRA,2 Bedrooms,4
+2019-06,Port Pirie,BURRA,3 Bedrooms,3
+2019-06,Port Pirie,BUTE,1 Bedroom,2
+2019-06,Port Pirie,CLARE,1 Bedroom,28
+2019-06,Port Pirie,CLARE,2 Bedrooms,15
+2019-06,Port Pirie,CLARE,3 Bedrooms,65
+2019-06,Port Pirie,CLARE,4+ Bedrooms,2
+2019-06,Port Pirie,CRYSTAL BROOK,1 Bedroom,1
+2019-06,Port Pirie,CRYSTAL BROOK,2 Bedrooms,1
+2019-06,Port Pirie,CRYSTAL BROOK,3 Bedrooms,12
+2019-06,Port Pirie,EDITHBURGH,1 Bedroom,6
+2019-06,Port Pirie,EUDUNDA,3 Bedrooms,1
+2019-06,Port Pirie,GLADSTONE,1 Bedroom,3
+2019-06,Port Pirie,HAMLEY BRIDGE,3 Bedrooms,1
+2019-06,Port Pirie,JAMESTOWN,1 Bedroom,11
+2019-06,Port Pirie,JAMESTOWN,3 Bedrooms,6
+2019-06,Port Pirie,KADINA,1 Bedroom,25
+2019-06,Port Pirie,KADINA,2 Bedrooms,30
+2019-06,Port Pirie,KADINA,3 Bedrooms,52
+2019-06,Port Pirie,KADINA,4+ Bedrooms,9
+2019-06,Port Pirie,LAURA,1 Bedroom,6
+2019-06,Port Pirie,LAURA,3 Bedrooms,2
+2019-06,Port Pirie,MAITLAND,2 Bedrooms,3
+2019-06,Port Pirie,MAITLAND,3 Bedrooms,18
+2019-06,Port Pirie,MAITLAND,4+ Bedrooms,3
+2019-06,Port Pirie,MINLATON,2 Bedrooms,4
+2019-06,Port Pirie,MINLATON,3 Bedrooms,2
+2019-06,Port Pirie,MOONTA,1 Bedroom,22
+2019-06,Port Pirie,MOONTA,2 Bedrooms,7
+2019-06,Port Pirie,MOONTA,3 Bedrooms,8
+2019-06,Port Pirie,MOONTA BAY,2 Bedrooms,2
+2019-06,Port Pirie,MOONTA BAY,3 Bedrooms,6
+2019-06,Port Pirie,MOONTA BAY,4+ Bedrooms,2
+2019-06,Port Pirie,ORROROO,1 Bedroom,2
+2019-06,Port Pirie,OWEN,1 Bedroom,1
+2019-06,Port Pirie,PETERBOROUGH,1 Bedroom,4
+2019-06,Port Pirie,PETERBOROUGH,2 Bedrooms,3
+2019-06,Port Pirie,PETERBOROUGH,3 Bedrooms,17
+2019-06,Port Pirie,PORT PIRIE,1 Bedroom,99
+2019-06,Port Pirie,PORT PIRIE,2 Bedrooms,198
+2019-06,Port Pirie,PORT PIRIE,3 Bedrooms,361
+2019-06,Port Pirie,PORT PIRIE,4+ Bedrooms,23
+2019-06,Port Pirie,PORT PIRIE SOUTH,2 Bedrooms,1
+2019-06,Port Pirie,PORT PIRIE SOUTH,3 Bedrooms,1
+2019-06,Port Pirie,PORT PIRIE WEST,1 Bedroom,25
+2019-06,Port Pirie,PORT PIRIE WEST,2 Bedrooms,9
+2019-06,Port Pirie,PORT VICTORIA,2 Bedrooms,2
+2019-06,Port Pirie,PORT VICTORIA,3 Bedrooms,7
+2019-06,Port Pirie,PORT VINCENT,1 Bedroom,6
+2019-06,Port Pirie,PORT WAKEFIELD,1 Bedroom,6
+2019-06,Port Pirie,RIVERTON,2 Bedrooms,2
+2019-06,Port Pirie,SPALDING,1 Bedroom,3
+2019-06,Port Pirie,STANSBURY,1 Bedroom,3
+2019-06,Port Pirie,WALLAROO,1 Bedroom,13
+2019-06,Port Pirie,WALLAROO,2 Bedrooms,33
+2019-06,Port Pirie,WALLAROO,3 Bedrooms,49
+2019-06,Port Pirie,WALLAROO,4+ Bedrooms,1
+2019-06,Port Pirie,YORKETOWN,1 Bedroom,8
+2019-06,Port Pirie,YORKETOWN,2 Bedrooms,4
+2019-06,Port Pirie,YORKETOWN,3 Bedrooms,1
+2019-06,Marion,ASCOT PARK,1 Bedroom,8
+2019-06,Marion,ASCOT PARK,2 Bedrooms,104
+2019-06,Marion,ASCOT PARK,3 Bedrooms,10
+2019-06,Marion,BEDFORD PARK,2 Bedrooms,5
+2019-06,Marion,BLACKWOOD,2 Bedrooms,18
+2019-06,Marion,BLACKWOOD,3 Bedrooms,2
+2019-06,Marion,BRIGHTON,2 Bedrooms,8
+2019-06,Marion,BRIGHTON,3 Bedrooms,3
+2019-06,Marion,BRIGHTON,4+ Bedrooms,1
+2019-06,Marion,CLAPHAM,2 Bedrooms,1
+2019-06,Marion,CLARENCE GARDENS,1 Bedroom,2
+2019-06,Marion,CLARENCE GARDENS,2 Bedrooms,4
+2019-06,Marion,CLARENCE GARDENS,3 Bedrooms,3
+2019-06,Marion,CLOVELLY PARK,1 Bedroom,10
+2019-06,Marion,CLOVELLY PARK,2 Bedrooms,29
+2019-06,Marion,CLOVELLY PARK,3 Bedrooms,20
+2019-06,Marion,CLOVELLY PARK,4+ Bedrooms,1
+2019-06,Marion,COLONEL LIGHT GARDENS,2 Bedrooms,11
+2019-06,Marion,COLONEL LIGHT GARDENS,3 Bedrooms,2
+2019-06,Marion,CUMBERLAND PARK,1 Bedroom,11
+2019-06,Marion,CUMBERLAND PARK,2 Bedrooms,4
+2019-06,Marion,CUMBERLAND PARK,4+ Bedrooms,1
+2019-06,Marion,DARLINGTON,1 Bedroom,18
+2019-06,Marion,DARLINGTON,2 Bedrooms,9
+2019-06,Marion,DARLINGTON,3 Bedrooms,14
+2019-06,Marion,DAW PARK,1 Bedroom,2
+2019-06,Marion,DAW PARK,2 Bedrooms,17
+2019-06,Marion,DAW PARK,3 Bedrooms,6
+2019-06,Marion,DAW PARK,4+ Bedrooms,1
+2019-06,Marion,DOVER GARDENS,1 Bedroom,2
+2019-06,Marion,DOVER GARDENS,2 Bedrooms,76
+2019-06,Marion,DOVER GARDENS,3 Bedrooms,109
+2019-06,Marion,DOVER GARDENS,4+ Bedrooms,4
+2019-06,Marion,EDWARDSTOWN,1 Bedroom,64
+2019-06,Marion,EDWARDSTOWN,2 Bedrooms,252
+2019-06,Marion,EDWARDSTOWN,3 Bedrooms,69
+2019-06,Marion,EDWARDSTOWN,4+ Bedrooms,12
+2019-06,Marion,GLANDORE,1 Bedroom,41
+2019-06,Marion,GLANDORE,2 Bedrooms,69
+2019-06,Marion,GLANDORE,3 Bedrooms,16
+2019-06,Marion,GLANDORE,4+ Bedrooms,3
+2019-06,Marion,GLENELG,1 Bedroom,7
+2019-06,Marion,GLENELG,2 Bedrooms,14
+2019-06,Marion,GLENELG,3 Bedrooms,3
+2019-06,Marion,GLENELG EAST,2 Bedrooms,7
+2019-06,Marion,GLENELG NORTH,1 Bedroom,5
+2019-06,Marion,GLENELG NORTH,2 Bedrooms,35
+2019-06,Marion,GLENELG NORTH,3 Bedrooms,4
+2019-06,Marion,GLENELG SOUTH,2 Bedrooms,5
+2019-06,Marion,GLENGOWRIE,1 Bedroom,6
+2019-06,Marion,GLENGOWRIE,2 Bedrooms,41
+2019-06,Marion,GLENGOWRIE,3 Bedrooms,3
+2019-06,Marion,HALLETT COVE,1 Bedroom,13
+2019-06,Marion,HALLETT COVE,2 Bedrooms,10
+2019-06,Marion,HALLETT COVE,3 Bedrooms,5
+2019-06,Marion,HAWTHORN,1 Bedroom,10
+2019-06,Marion,HAWTHORN,2 Bedrooms,44
+2019-06,Marion,HAWTHORN,3 Bedrooms,1
+2019-06,Marion,HOVE,1 Bedroom,16
+2019-06,Marion,HOVE,2 Bedrooms,27
+2019-06,Marion,HOVE,3 Bedrooms,4
+2019-06,Marion,HOVE,4+ Bedrooms,1
+2019-06,Marion,KINGSTON PARK,1 Bedroom,1
+2019-06,Marion,KINGSTON PARK,3 Bedrooms,1
+2019-06,Marion,KINGSWOOD,2 Bedrooms,4
+2019-06,Marion,LOWER MITCHAM,1 Bedroom,4
+2019-06,Marion,LOWER MITCHAM,2 Bedrooms,4
+2019-06,Marion,LOWER MITCHAM,3 Bedrooms,1
+2019-06,Marion,MARION,1 Bedroom,18
+2019-06,Marion,MARION,2 Bedrooms,13
+2019-06,Marion,MARION,3 Bedrooms,17
+2019-06,Marion,MARION,4+ Bedrooms,5
+2019-06,Marion,MELROSE PARK,2 Bedrooms,4
+2019-06,Marion,MELROSE PARK,3 Bedrooms,3
+2019-06,Marion,MITCHAM,2 Bedrooms,1
+2019-06,Marion,MITCHELL PARK,1 Bedroom,12
+2019-06,Marion,MITCHELL PARK,2 Bedrooms,23
+2019-06,Marion,MITCHELL PARK,3 Bedrooms,12
+2019-06,Marion,MORPHETTVILLE,1 Bedroom,17
+2019-06,Marion,MORPHETTVILLE,2 Bedrooms,46
+2019-06,Marion,MORPHETTVILLE,3 Bedrooms,41
+2019-06,Marion,MORPHETTVILLE,4+ Bedrooms,6
+2019-06,Marion,NORTH BRIGHTON,2 Bedrooms,9
+2019-06,Marion,NORTH BRIGHTON,3 Bedrooms,6
+2019-06,Marion,OAKLANDS PARK,1 Bedroom,87
+2019-06,Marion,OAKLANDS PARK,2 Bedrooms,183
+2019-06,Marion,OAKLANDS PARK,3 Bedrooms,104
+2019-06,Marion,OAKLANDS PARK,4+ Bedrooms,5
+2019-06,Marion,PANORAMA,2 Bedrooms,5
+2019-06,Marion,PARK HOLME,1 Bedroom,8
+2019-06,Marion,PARK HOLME,2 Bedrooms,39
+2019-06,Marion,PARK HOLME,3 Bedrooms,20
+2019-06,Marion,PARK HOLME,4+ Bedrooms,8
+2019-06,Marion,PASADENA,2 Bedrooms,16
+2019-06,Marion,PASADENA,3 Bedrooms,1
+2019-06,Marion,PLYMPTON PARK,1 Bedroom,36
+2019-06,Marion,PLYMPTON PARK,2 Bedrooms,80
+2019-06,Marion,PLYMPTON PARK,3 Bedrooms,36
+2019-06,Marion,PLYMPTON PARK,4+ Bedrooms,6
+2019-06,Marion,SEACLIFF,2 Bedrooms,4
+2019-06,Marion,SEACLIFF,3 Bedrooms,2
+2019-06,Marion,SEACLIFF PARK,1 Bedroom,1
+2019-06,Marion,SEACLIFF PARK,2 Bedrooms,7
+2019-06,Marion,SEACOMBE GARDENS,1 Bedroom,4
+2019-06,Marion,SEACOMBE GARDENS,2 Bedrooms,79
+2019-06,Marion,SEACOMBE GARDENS,3 Bedrooms,103
+2019-06,Marion,SEACOMBE GARDENS,4+ Bedrooms,3
+2019-06,Marion,SEAVIEW DOWNS,2 Bedrooms,1
+2019-06,Marion,SEAVIEW DOWNS,3 Bedrooms,4
+2019-06,Marion,SHEIDOW PARK,3 Bedrooms,3
+2019-06,Marion,SOMERTON PARK,1 Bedroom,10
+2019-06,Marion,SOMERTON PARK,2 Bedrooms,20
+2019-06,Marion,SOMERTON PARK,3 Bedrooms,13
+2019-06,Marion,SOUTH BRIGHTON,2 Bedrooms,31
+2019-06,Marion,SOUTH BRIGHTON,3 Bedrooms,14
+2019-06,Marion,SOUTH PLYMPTON,1 Bedroom,9
+2019-06,Marion,SOUTH PLYMPTON,2 Bedrooms,39
+2019-06,Marion,SOUTH PLYMPTON,3 Bedrooms,10
+2019-06,Marion,SOUTH PLYMPTON,4+ Bedrooms,1
+2019-06,Marion,ST MARYS,1 Bedroom,8
+2019-06,Marion,ST MARYS,2 Bedrooms,30
+2019-06,Marion,ST MARYS,3 Bedrooms,6
+2019-06,Marion,ST MARYS,4+ Bedrooms,2
+2019-06,Marion,STURT,1 Bedroom,32
+2019-06,Marion,STURT,2 Bedrooms,60
+2019-06,Marion,STURT,3 Bedrooms,74
+2019-06,Marion,STURT,4+ Bedrooms,1
+2019-06,Marion,TONSLEY,1 Bedroom,2
+2019-06,Marion,TONSLEY,2 Bedrooms,19
+2019-06,Marion,TONSLEY,3 Bedrooms,20
+2019-06,Marion,TONSLEY,4+ Bedrooms,1
+2019-06,Marion,TROTT PARK,3 Bedrooms,6
+2019-06,Marion,WARRADALE,1 Bedroom,2
+2019-06,Marion,WARRADALE,2 Bedrooms,13
+2019-06,Marion,WARRADALE,3 Bedrooms,11
+2019-06,Noarlunga,ABERFOYLE PARK,2 Bedrooms,17
+2019-06,Noarlunga,ABERFOYLE PARK,3 Bedrooms,85
+2019-06,Noarlunga,ABERFOYLE PARK,4+ Bedrooms,4
+2019-06,Noarlunga,ALDINGA BEACH,2 Bedrooms,3
+2019-06,Noarlunga,ALDINGA BEACH,3 Bedrooms,14
+2019-06,Noarlunga,ALDINGA BEACH,4+ Bedrooms,3
+2019-06,Noarlunga,CHRISTIE DOWNS,1 Bedroom,69
+2019-06,Noarlunga,CHRISTIE DOWNS,2 Bedrooms,172
+2019-06,Noarlunga,CHRISTIE DOWNS,3 Bedrooms,349
+2019-06,Noarlunga,CHRISTIE DOWNS,4+ Bedrooms,10
+2019-06,Noarlunga,CHRISTIES BEACH,1 Bedroom,19
+2019-06,Noarlunga,CHRISTIES BEACH,2 Bedrooms,13
+2019-06,Noarlunga,CHRISTIES BEACH,3 Bedrooms,40
+2019-06,Noarlunga,CHRISTIES BEACH,4+ Bedrooms,4
+2019-06,Noarlunga,FLAGSTAFF HILL,2 Bedrooms,1
+2019-06,Noarlunga,FLAGSTAFF HILL,3 Bedrooms,2
+2019-06,Noarlunga,FLAGSTAFF HILL,4+ Bedrooms,1
+2019-06,Noarlunga,HACKHAM,2 Bedrooms,8
+2019-06,Noarlunga,HACKHAM,3 Bedrooms,27
+2019-06,Noarlunga,HACKHAM,4+ Bedrooms,4
+2019-06,Noarlunga,HACKHAM WEST,1 Bedroom,66
+2019-06,Noarlunga,HACKHAM WEST,2 Bedrooms,61
+2019-06,Noarlunga,HACKHAM WEST,3 Bedrooms,276
+2019-06,Noarlunga,HACKHAM WEST,4+ Bedrooms,11
+2019-06,Noarlunga,HAPPY VALLEY,3 Bedrooms,14
+2019-06,Noarlunga,HUNTFIELD HEIGHTS,1 Bedroom,19
+2019-06,Noarlunga,HUNTFIELD HEIGHTS,2 Bedrooms,59
+2019-06,Noarlunga,HUNTFIELD HEIGHTS,3 Bedrooms,109
+2019-06,Noarlunga,HUNTFIELD HEIGHTS,4+ Bedrooms,3
+2019-06,Noarlunga,KANGARILLA,3 Bedrooms,1
+2019-06,Noarlunga,MCLAREN VALE,1 Bedroom,8
+2019-06,Noarlunga,MCLAREN VALE,3 Bedrooms,3
+2019-06,Noarlunga,MOANA,2 Bedrooms,2
+2019-06,Noarlunga,MORPHETT VALE,1 Bedroom,142
+2019-06,Noarlunga,MORPHETT VALE,2 Bedrooms,306
+2019-06,Noarlunga,MORPHETT VALE,3 Bedrooms,368
+2019-06,Noarlunga,MORPHETT VALE,4+ Bedrooms,15
+2019-06,Noarlunga,NOARLUNGA CENTRE,2 Bedrooms,11
+2019-06,Noarlunga,NOARLUNGA DOWNS,1 Bedroom,4
+2019-06,Noarlunga,NOARLUNGA DOWNS,2 Bedrooms,124
+2019-06,Noarlunga,NOARLUNGA DOWNS,3 Bedrooms,180
+2019-06,Noarlunga,NOARLUNGA DOWNS,4+ Bedrooms,2
+2019-06,Noarlunga,O'HALLORAN HILL,2 Bedrooms,15
+2019-06,Noarlunga,O'HALLORAN HILL,3 Bedrooms,2
+2019-06,Noarlunga,O'SULLIVAN BEACH,1 Bedroom,22
+2019-06,Noarlunga,O'SULLIVAN BEACH,2 Bedrooms,6
+2019-06,Noarlunga,O'SULLIVAN BEACH,3 Bedrooms,31
+2019-06,Noarlunga,OLD NOARLUNGA,3 Bedrooms,1
+2019-06,Noarlunga,OLD REYNELLA,2 Bedrooms,2
+2019-06,Noarlunga,OLD REYNELLA,4+ Bedrooms,1
+2019-06,Noarlunga,PORT NOARLUNGA,1 Bedroom,32
+2019-06,Noarlunga,PORT NOARLUNGA,2 Bedrooms,12
+2019-06,Noarlunga,PORT NOARLUNGA,3 Bedrooms,3
+2019-06,Noarlunga,PORT NOARLUNGA,4+ Bedrooms,1
+2019-06,Noarlunga,REYNELLA,2 Bedrooms,2
+2019-06,Noarlunga,REYNELLA,3 Bedrooms,13
+2019-06,Noarlunga,REYNELLA,4+ Bedrooms,1
+2019-06,Noarlunga,REYNELLA EAST,2 Bedrooms,2
+2019-06,Noarlunga,REYNELLA EAST,3 Bedrooms,34
+2019-06,Noarlunga,SEAFORD,2 Bedrooms,19
+2019-06,Noarlunga,SEAFORD,3 Bedrooms,30
+2019-06,Noarlunga,SEAFORD,4+ Bedrooms,1
+2019-06,Noarlunga,SEAFORD MEADOWS,2 Bedrooms,5
+2019-06,Noarlunga,SEAFORD MEADOWS,3 Bedrooms,12
+2019-06,Noarlunga,SEAFORD MEADOWS,4+ Bedrooms,7
+2019-06,Noarlunga,SEAFORD RISE,1 Bedroom,4
+2019-06,Noarlunga,SEAFORD RISE,2 Bedrooms,119
+2019-06,Noarlunga,SEAFORD RISE,3 Bedrooms,65
+2019-06,Noarlunga,SEAFORD RISE,4+ Bedrooms,5
+2019-06,Noarlunga,WILLUNGA,1 Bedroom,4
+2019-06,Noarlunga,WOODCROFT,2 Bedrooms,29
+2019-06,Noarlunga,WOODCROFT,3 Bedrooms,31
+2019-06,Noarlunga,WOODCROFT,4+ Bedrooms,2
+2019-06,Berri,BARMERA,1 Bedroom,23
+2019-06,Berri,BARMERA,2 Bedrooms,34
+2019-06,Berri,BARMERA,3 Bedrooms,42
+2019-06,Berri,BARMERA,4+ Bedrooms,5
+2019-06,Berri,BERRI,1 Bedroom,7
+2019-06,Berri,BERRI,2 Bedrooms,53
+2019-06,Berri,BERRI,3 Bedrooms,111
+2019-06,Berri,BERRI,4+ Bedrooms,6
+2019-06,Berri,GLOSSOP,3 Bedrooms,1
+2019-06,Berri,GLOSSOP,4+ Bedrooms,1
+2019-06,Berri,LOXTON,1 Bedroom,12
+2019-06,Berri,LOXTON,2 Bedrooms,29
+2019-06,Berri,LOXTON,3 Bedrooms,37
+2019-06,Berri,LOXTON,4+ Bedrooms,4
+2019-06,Berri,MORGAN,1 Bedroom,6
+2019-06,Berri,MORGAN,2 Bedrooms,3
+2019-06,Berri,MORGAN,3 Bedrooms,1
+2019-06,Berri,PARINGA,1 Bedroom,7
+2019-06,Berri,RENMARK,1 Bedroom,16
+2019-06,Berri,RENMARK,2 Bedrooms,35
+2019-06,Berri,RENMARK,3 Bedrooms,112
+2019-06,Berri,RENMARK,4+ Bedrooms,4
+2019-06,Berri,WAIKERIE,1 Bedroom,13
+2019-06,Berri,WAIKERIE,2 Bedrooms,15
+2019-06,Berri,WAIKERIE,3 Bedrooms,36
+2019-06,Mount Barker,BALHANNAH,3 Bedrooms,2
+2019-06,Mount Barker,BRUKUNGA,3 Bedrooms,6
+2019-06,Mount Barker,ECHUNGA,1 Bedroom,4
+2019-06,Mount Barker,GOOLWA,1 Bedroom,18
+2019-06,Mount Barker,GOOLWA,2 Bedrooms,5
+2019-06,Mount Barker,HAHNDORF,4+ Bedrooms,1
+2019-06,Mount Barker,KINGSCOTE,1 Bedroom,6
+2019-06,Mount Barker,KINGSCOTE,2 Bedrooms,11
+2019-06,Mount Barker,KINGSCOTE,3 Bedrooms,24
+2019-06,Mount Barker,LITTLEHAMPTON,3 Bedrooms,7
+2019-06,Mount Barker,LITTLEHAMPTON,4+ Bedrooms,1
+2019-06,Mount Barker,LOBETHAL,3 Bedrooms,13
+2019-06,Mount Barker,MANNUM,2 Bedrooms,1
+2019-06,Mount Barker,MANNUM,3 Bedrooms,46
+2019-06,Mount Barker,MANNUM,4+ Bedrooms,2
+2019-06,Mount Barker,MCCRACKEN,3 Bedrooms,1
+2019-06,Mount Barker,MEADOWS,1 Bedroom,5
+2019-06,Mount Barker,MEADOWS,2 Bedrooms,1
+2019-06,Mount Barker,MILANG,1 Bedroom,3
+2019-06,Mount Barker,MILANG,2 Bedrooms,1
+2019-06,Mount Barker,MOUNT BARKER,1 Bedroom,8
+2019-06,Mount Barker,MOUNT BARKER,2 Bedrooms,118
+2019-06,Mount Barker,MOUNT BARKER,3 Bedrooms,187
+2019-06,Mount Barker,MOUNT BARKER,4+ Bedrooms,12
+2019-06,Mount Barker,NAIRNE,3 Bedrooms,19
+2019-06,Mount Barker,STRATHALBYN,1 Bedroom,5
+2019-06,Mount Barker,STRATHALBYN,2 Bedrooms,2
+2019-06,Mount Barker,WOODSIDE,3 Bedrooms,8
+2019-06,Mount Barker,YANKALILLA,1 Bedroom,5
+2019-06,Mount Barker,YANKALILLA,2 Bedrooms,1
+2019-06,Mount Gambier,KEITH,1 Bedroom,4
+2019-06,Mount Gambier,LUCINDALE,1 Bedroom,3
+2019-06,Mount Gambier,MOUNT GAMBIER,1 Bedroom,90
+2019-06,Mount Gambier,MOUNT GAMBIER,2 Bedrooms,186
+2019-06,Mount Gambier,MOUNT GAMBIER,3 Bedrooms,749
+2019-06,Mount Gambier,MOUNT GAMBIER,4+ Bedrooms,25
+2019-06,Murray Bridge,LAMEROO,3 Bedrooms,1
+2019-06,Murray Bridge,MENINGIE,1 Bedroom,2
+2019-06,Murray Bridge,MONARTO,2 Bedrooms,1
+2019-06,Murray Bridge,MURRAY BRIDGE,1 Bedroom,29
+2019-06,Murray Bridge,MURRAY BRIDGE,2 Bedrooms,170
+2019-06,Murray Bridge,MURRAY BRIDGE,3 Bedrooms,412
+2019-06,Murray Bridge,MURRAY BRIDGE,4+ Bedrooms,29
+2019-06,Murray Bridge,TAILEM BEND,2 Bedrooms,3
+2019-06,Murray Bridge,TAILEM BEND,3 Bedrooms,6
+2019-06,Croydon Park,ALLENBY GARDENS,2 Bedrooms,11
+2019-06,Croydon Park,ALLENBY GARDENS,3 Bedrooms,1
+2019-06,Croydon Park,ANGLE PARK,1 Bedroom,8
+2019-06,Croydon Park,ANGLE PARK,2 Bedrooms,148
+2019-06,Croydon Park,ANGLE PARK,3 Bedrooms,34
+2019-06,Croydon Park,ANGLE PARK,4+ Bedrooms,12
+2019-06,Croydon Park,ASHFORD,2 Bedrooms,16
+2019-06,Croydon Park,ASHFORD,3 Bedrooms,1
+2019-06,Croydon Park,ATHOL PARK,1 Bedroom,8
+2019-06,Croydon Park,ATHOL PARK,2 Bedrooms,1
+2019-06,Croydon Park,ATHOL PARK,3 Bedrooms,3
+2019-06,Croydon Park,ATHOL PARK,4+ Bedrooms,2
+2019-06,Croydon Park,BOWDEN,1 Bedroom,36
+2019-06,Croydon Park,BOWDEN,2 Bedrooms,37
+2019-06,Croydon Park,BOWDEN,3 Bedrooms,19
+2019-06,Croydon Park,BROMPTON,1 Bedroom,3
+2019-06,Croydon Park,BROMPTON,2 Bedrooms,93
+2019-06,Croydon Park,BROMPTON,3 Bedrooms,61
+2019-06,Croydon Park,BROMPTON,4+ Bedrooms,6
+2019-06,Croydon Park,BROOKLYN PARK,1 Bedroom,23
+2019-06,Croydon Park,BROOKLYN PARK,2 Bedrooms,135
+2019-06,Croydon Park,BROOKLYN PARK,3 Bedrooms,8
+2019-06,Croydon Park,CAMDEN PARK,1 Bedroom,44
+2019-06,Croydon Park,CAMDEN PARK,2 Bedrooms,50
+2019-06,Croydon Park,CAMDEN PARK,3 Bedrooms,1
+2019-06,Croydon Park,COWANDILLA,1 Bedroom,20
+2019-06,Croydon Park,COWANDILLA,2 Bedrooms,33
+2019-06,Croydon Park,COWANDILLA,3 Bedrooms,10
+2019-06,Croydon Park,CROYDON,1 Bedroom,3
+2019-06,Croydon Park,CROYDON,2 Bedrooms,9
+2019-06,Croydon Park,CROYDON,3 Bedrooms,10
+2019-06,Croydon Park,CROYDON,4+ Bedrooms,4
+2019-06,Croydon Park,CROYDON PARK,1 Bedroom,33
+2019-06,Croydon Park,CROYDON PARK,2 Bedrooms,45
+2019-06,Croydon Park,CROYDON PARK,3 Bedrooms,28
+2019-06,Croydon Park,CROYDON PARK,4+ Bedrooms,2
+2019-06,Croydon Park,DEVON PARK,1 Bedroom,11
+2019-06,Croydon Park,DEVON PARK,2 Bedrooms,75
+2019-06,Croydon Park,DEVON PARK,3 Bedrooms,22
+2019-06,Croydon Park,DEVON PARK,4+ Bedrooms,2
+2019-06,Croydon Park,DUDLEY PARK,2 Bedrooms,62
+2019-06,Croydon Park,DUDLEY PARK,3 Bedrooms,42
+2019-06,Croydon Park,FERRYDEN PARK,1 Bedroom,79
+2019-06,Croydon Park,FERRYDEN PARK,2 Bedrooms,152
+2019-06,Croydon Park,FERRYDEN PARK,3 Bedrooms,168
+2019-06,Croydon Park,FERRYDEN PARK,4+ Bedrooms,27
+2019-06,Croydon Park,FLINDERS PARK,1 Bedroom,1
+2019-06,Croydon Park,FLINDERS PARK,2 Bedrooms,3
+2019-06,Croydon Park,FLINDERS PARK,3 Bedrooms,5
+2019-06,Croydon Park,FULHAM,2 Bedrooms,41
+2019-06,Croydon Park,FULHAM,3 Bedrooms,4
+2019-06,Croydon Park,HENLEY BEACH,1 Bedroom,54
+2019-06,Croydon Park,HENLEY BEACH,2 Bedrooms,69
+2019-06,Croydon Park,HENLEY BEACH,3 Bedrooms,4
+2019-06,Croydon Park,HENLEY BEACH SOUTH,1 Bedroom,18
+2019-06,Croydon Park,HENLEY BEACH SOUTH,2 Bedrooms,90
+2019-06,Croydon Park,HILTON,1 Bedroom,3
+2019-06,Croydon Park,HILTON,2 Bedrooms,14
+2019-06,Croydon Park,HILTON,3 Bedrooms,6
+2019-06,Croydon Park,HILTON,4+ Bedrooms,1
+2019-06,Croydon Park,HINDMARSH,2 Bedrooms,3
+2019-06,Croydon Park,HINDMARSH,3 Bedrooms,1
+2019-06,Croydon Park,HINDMARSH,4+ Bedrooms,1
+2019-06,Croydon Park,KESWICK,2 Bedrooms,4
+2019-06,Croydon Park,KESWICK,3 Bedrooms,7
+2019-06,Croydon Park,KIDMAN PARK,2 Bedrooms,7
+2019-06,Croydon Park,KIDMAN PARK,3 Bedrooms,16
+2019-06,Croydon Park,KIDMAN PARK,4+ Bedrooms,2
+2019-06,Croydon Park,KILKENNY,2 Bedrooms,17
+2019-06,Croydon Park,KILKENNY,3 Bedrooms,7
+2019-06,Croydon Park,KILKENNY,4+ Bedrooms,2
+2019-06,Croydon Park,KURRALTA PARK,2 Bedrooms,12
+2019-06,Croydon Park,KURRALTA PARK,3 Bedrooms,6
+2019-06,Croydon Park,LOCKLEYS,1 Bedroom,21
+2019-06,Croydon Park,LOCKLEYS,2 Bedrooms,4
+2019-06,Croydon Park,MANSFIELD PARK,2 Bedrooms,20
+2019-06,Croydon Park,MANSFIELD PARK,3 Bedrooms,12
+2019-06,Croydon Park,MANSFIELD PARK,4+ Bedrooms,1
+2019-06,Croydon Park,MARLESTON,1 Bedroom,11
+2019-06,Croydon Park,MARLESTON,2 Bedrooms,21
+2019-06,Croydon Park,MARLESTON,3 Bedrooms,8
+2019-06,Croydon Park,MILE END,1 Bedroom,22
+2019-06,Croydon Park,MILE END,2 Bedrooms,114
+2019-06,Croydon Park,MILE END,3 Bedrooms,69
+2019-06,Croydon Park,MILE END,4+ Bedrooms,9
+2019-06,Croydon Park,NORTH PLYMPTON,1 Bedroom,28
+2019-06,Croydon Park,NORTH PLYMPTON,2 Bedrooms,29
+2019-06,Croydon Park,NORTH PLYMPTON,3 Bedrooms,11
+2019-06,Croydon Park,NORTH PLYMPTON,4+ Bedrooms,3
+2019-06,Croydon Park,NOVAR GARDENS,1 Bedroom,80
+2019-06,Croydon Park,NOVAR GARDENS,2 Bedrooms,67
+2019-06,Croydon Park,NOVAR GARDENS,3 Bedrooms,96
+2019-06,Croydon Park,NOVAR GARDENS,4+ Bedrooms,1
+2019-06,Croydon Park,OVINGHAM,1 Bedroom,8
+2019-06,Croydon Park,OVINGHAM,2 Bedrooms,31
+2019-06,Croydon Park,OVINGHAM,3 Bedrooms,20
+2019-06,Croydon Park,PLYMPTON,1 Bedroom,11
+2019-06,Croydon Park,PLYMPTON,2 Bedrooms,18
+2019-06,Croydon Park,PLYMPTON,3 Bedrooms,4
+2019-06,Croydon Park,RENOWN PARK,1 Bedroom,44
+2019-06,Croydon Park,RENOWN PARK,2 Bedrooms,115
+2019-06,Croydon Park,RENOWN PARK,3 Bedrooms,45
+2019-06,Croydon Park,RENOWN PARK,4+ Bedrooms,4
+2019-06,Croydon Park,RICHMOND,2 Bedrooms,9
+2019-06,Croydon Park,RICHMOND,3 Bedrooms,8
+2019-06,Croydon Park,RIDLEYTON,1 Bedroom,17
+2019-06,Croydon Park,RIDLEYTON,2 Bedrooms,63
+2019-06,Croydon Park,RIDLEYTON,3 Bedrooms,24
+2019-06,Croydon Park,THEBARTON,1 Bedroom,15
+2019-06,Croydon Park,THEBARTON,2 Bedrooms,37
+2019-06,Croydon Park,THEBARTON,3 Bedrooms,13
+2019-06,Croydon Park,TORRENSVILLE,1 Bedroom,5
+2019-06,Croydon Park,TORRENSVILLE,2 Bedrooms,44
+2019-06,Croydon Park,TORRENSVILLE,3 Bedrooms,25
+2019-06,Croydon Park,TORRENSVILLE,4+ Bedrooms,2
+2019-06,Croydon Park,UNDERDALE,1 Bedroom,8
+2019-06,Croydon Park,UNDERDALE,2 Bedrooms,16
+2019-06,Croydon Park,UNDERDALE,3 Bedrooms,14
+2019-06,Croydon Park,WELLAND,2 Bedrooms,7
+2019-06,Croydon Park,WELLAND,3 Bedrooms,25
+2019-06,Croydon Park,WEST BEACH,2 Bedrooms,19
+2019-06,Croydon Park,WEST CROYDON,1 Bedroom,9
+2019-06,Croydon Park,WEST CROYDON,2 Bedrooms,30
+2019-06,Croydon Park,WEST CROYDON,3 Bedrooms,15
+2019-06,Croydon Park,WEST CROYDON,4+ Bedrooms,1
+2019-06,Croydon Park,WEST HINDMARSH,2 Bedrooms,12
+2019-06,Croydon Park,WEST HINDMARSH,3 Bedrooms,4
+2019-06,Croydon Park,WEST RICHMOND,2 Bedrooms,17
+2019-06,Croydon Park,WEST RICHMOND,3 Bedrooms,8
+2019-06,Croydon Park,WEST RICHMOND,4+ Bedrooms,1
+2019-06,Croydon Park,WOODVILLE GARDENS,1 Bedroom,14
+2019-06,Croydon Park,WOODVILLE GARDENS,2 Bedrooms,45
+2019-06,Croydon Park,WOODVILLE GARDENS,3 Bedrooms,30
+2019-06,Croydon Park,WOODVILLE GARDENS,4+ Bedrooms,9
+2019-06,Croydon Park,WOODVILLE NORTH,1 Bedroom,2
+2019-06,Croydon Park,WOODVILLE NORTH,2 Bedrooms,14
+2019-06,Croydon Park,WOODVILLE NORTH,3 Bedrooms,1
+2019-06,Croydon Park,WOODVILLE NORTH,4+ Bedrooms,1
+2019-06,Port Adelaide,ALBERT PARK,1 Bedroom,5
+2019-06,Port Adelaide,ALBERT PARK,2 Bedrooms,30
+2019-06,Port Adelaide,ALBERT PARK,3 Bedrooms,15
+2019-06,Port Adelaide,ALBERTON,1 Bedroom,7
+2019-06,Port Adelaide,ALBERTON,2 Bedrooms,20
+2019-06,Port Adelaide,ALBERTON,3 Bedrooms,15
+2019-06,Port Adelaide,ALBERTON,4+ Bedrooms,3
+2019-06,Port Adelaide,BEVERLEY,2 Bedrooms,11
+2019-06,Port Adelaide,BEVERLEY,3 Bedrooms,3
+2019-06,Port Adelaide,BIRKENHEAD,1 Bedroom,2
+2019-06,Port Adelaide,BIRKENHEAD,2 Bedrooms,40
+2019-06,Port Adelaide,BIRKENHEAD,3 Bedrooms,24
+2019-06,Port Adelaide,BIRKENHEAD,4+ Bedrooms,1
+2019-06,Port Adelaide,CHELTENHAM,1 Bedroom,2
+2019-06,Port Adelaide,CHELTENHAM,2 Bedrooms,7
+2019-06,Port Adelaide,CHELTENHAM,3 Bedrooms,2
+2019-06,Port Adelaide,ETHELTON,1 Bedroom,13
+2019-06,Port Adelaide,ETHELTON,2 Bedrooms,17
+2019-06,Port Adelaide,ETHELTON,3 Bedrooms,37
+2019-06,Port Adelaide,EXETER,1 Bedroom,29
+2019-06,Port Adelaide,EXETER,2 Bedrooms,21
+2019-06,Port Adelaide,EXETER,3 Bedrooms,3
+2019-06,Port Adelaide,EXETER,4+ Bedrooms,1
+2019-06,Port Adelaide,FINDON,1 Bedroom,9
+2019-06,Port Adelaide,FINDON,2 Bedrooms,137
+2019-06,Port Adelaide,FINDON,3 Bedrooms,21
+2019-06,Port Adelaide,FINDON,4+ Bedrooms,9
+2019-06,Port Adelaide,GLANVILLE,2 Bedrooms,23
+2019-06,Port Adelaide,GLANVILLE,3 Bedrooms,1
+2019-06,Port Adelaide,GRANGE,1 Bedroom,17
+2019-06,Port Adelaide,GRANGE,2 Bedrooms,24
+2019-06,Port Adelaide,GRANGE,3 Bedrooms,41
+2019-06,Port Adelaide,GRANGE,4+ Bedrooms,1
+2019-06,Port Adelaide,HENDON,2 Bedrooms,11
+2019-06,Port Adelaide,HENDON,3 Bedrooms,7
+2019-06,Port Adelaide,LARGS BAY,1 Bedroom,12
+2019-06,Port Adelaide,LARGS BAY,2 Bedrooms,33
+2019-06,Port Adelaide,LARGS BAY,3 Bedrooms,21
+2019-06,Port Adelaide,LARGS BAY,4+ Bedrooms,3
+2019-06,Port Adelaide,LARGS NORTH,1 Bedroom,9
+2019-06,Port Adelaide,LARGS NORTH,2 Bedrooms,45
+2019-06,Port Adelaide,LARGS NORTH,3 Bedrooms,19
+2019-06,Port Adelaide,LARGS NORTH,4+ Bedrooms,2
+2019-06,Port Adelaide,MILE END SOUTH,2 Bedrooms,2
+2019-06,Port Adelaide,NORTH HAVEN,1 Bedroom,32
+2019-06,Port Adelaide,NORTH HAVEN,2 Bedrooms,19
+2019-06,Port Adelaide,NORTH HAVEN,3 Bedrooms,9
+2019-06,Port Adelaide,OSBORNE,1 Bedroom,15
+2019-06,Port Adelaide,OSBORNE,2 Bedrooms,49
+2019-06,Port Adelaide,OSBORNE,3 Bedrooms,60
+2019-06,Port Adelaide,OSBORNE,4+ Bedrooms,6
+2019-06,Port Adelaide,OTTOWAY,1 Bedroom,23
+2019-06,Port Adelaide,OTTOWAY,2 Bedrooms,47
+2019-06,Port Adelaide,OTTOWAY,3 Bedrooms,37
+2019-06,Port Adelaide,OTTOWAY,4+ Bedrooms,3
+2019-06,Port Adelaide,PENNINGTON,1 Bedroom,26
+2019-06,Port Adelaide,PENNINGTON,2 Bedrooms,43
+2019-06,Port Adelaide,PENNINGTON,3 Bedrooms,12
+2019-06,Port Adelaide,PETERHEAD,2 Bedrooms,26
+2019-06,Port Adelaide,PETERHEAD,3 Bedrooms,19
+2019-06,Port Adelaide,PORT ADELAIDE,1 Bedroom,78
+2019-06,Port Adelaide,PORT ADELAIDE,2 Bedrooms,83
+2019-06,Port Adelaide,PORT ADELAIDE,3 Bedrooms,43
+2019-06,Port Adelaide,QUEENSTOWN,1 Bedroom,19
+2019-06,Port Adelaide,QUEENSTOWN,2 Bedrooms,39
+2019-06,Port Adelaide,QUEENSTOWN,3 Bedrooms,53
+2019-06,Port Adelaide,ROSEWATER,1 Bedroom,20
+2019-06,Port Adelaide,ROSEWATER,2 Bedrooms,72
+2019-06,Port Adelaide,ROSEWATER,3 Bedrooms,32
+2019-06,Port Adelaide,ROSEWATER,4+ Bedrooms,4
+2019-06,Port Adelaide,ROYAL PARK,1 Bedroom,2
+2019-06,Port Adelaide,ROYAL PARK,2 Bedrooms,70
+2019-06,Port Adelaide,ROYAL PARK,3 Bedrooms,13
+2019-06,Port Adelaide,ROYAL PARK,4+ Bedrooms,5
+2019-06,Port Adelaide,SEATON,1 Bedroom,36
+2019-06,Port Adelaide,SEATON,2 Bedrooms,164
+2019-06,Port Adelaide,SEATON,3 Bedrooms,285
+2019-06,Port Adelaide,SEATON,4+ Bedrooms,7
+2019-06,Port Adelaide,SEMAPHORE,1 Bedroom,8
+2019-06,Port Adelaide,SEMAPHORE,2 Bedrooms,14
+2019-06,Port Adelaide,SEMAPHORE,3 Bedrooms,14
+2019-06,Port Adelaide,SEMAPHORE,4+ Bedrooms,3
+2019-06,Port Adelaide,SEMAPHORE PARK,1 Bedroom,29
+2019-06,Port Adelaide,SEMAPHORE PARK,2 Bedrooms,160
+2019-06,Port Adelaide,SEMAPHORE PARK,3 Bedrooms,272
+2019-06,Port Adelaide,SEMAPHORE PARK,4+ Bedrooms,9
+2019-06,Port Adelaide,SEMAPHORE SOUTH,2 Bedrooms,2
+2019-06,Port Adelaide,SEMAPHORE SOUTH,3 Bedrooms,1
+2019-06,Port Adelaide,ST CLAIR,2 Bedrooms,2
+2019-06,Port Adelaide,TAPEROO,1 Bedroom,38
+2019-06,Port Adelaide,TAPEROO,2 Bedrooms,148
+2019-06,Port Adelaide,TAPEROO,3 Bedrooms,175
+2019-06,Port Adelaide,TAPEROO,4+ Bedrooms,21
+2019-06,Port Adelaide,WEST LAKES,2 Bedrooms,1
+2019-06,Port Adelaide,WEST LAKES,3 Bedrooms,49
+2019-06,Port Adelaide,WEST LAKES,4+ Bedrooms,2
+2019-06,Port Adelaide,WEST LAKES SHORE,2 Bedrooms,4
+2019-06,Port Adelaide,WEST LAKES SHORE,3 Bedrooms,7
+2019-06,Port Adelaide,WINGFIELD,3 Bedrooms,5
+2019-06,Port Adelaide,WOODVILLE,1 Bedroom,3
+2019-06,Port Adelaide,WOODVILLE,2 Bedrooms,10
+2019-06,Port Adelaide,WOODVILLE,3 Bedrooms,1
+2019-06,Port Adelaide,WOODVILLE PARK,1 Bedroom,2
+2019-06,Port Adelaide,WOODVILLE PARK,2 Bedrooms,7
+2019-06,Port Adelaide,WOODVILLE SOUTH,1 Bedroom,1
+2019-06,Port Adelaide,WOODVILLE SOUTH,2 Bedrooms,11
+2019-06,Port Adelaide,WOODVILLE SOUTH,3 Bedrooms,1
+2019-06,Port Adelaide,WOODVILLE SOUTH,4+ Bedrooms,2
+2019-06,Port Adelaide,WOODVILLE WEST,1 Bedroom,3
+2019-06,Port Adelaide,WOODVILLE WEST,2 Bedrooms,40
+2019-06,Port Adelaide,WOODVILLE WEST,3 Bedrooms,29
+2019-06,Port Adelaide,WOODVILLE WEST,4+ Bedrooms,3
+2019-06,Ceduna,CEDUNA,2 Bedrooms,6
+2019-06,Ceduna,CEDUNA,3 Bedrooms,73
+2019-06,Ceduna,CEDUNA,4+ Bedrooms,13
+2019-06,Ceduna,STREAKY BAY,1 Bedroom,3
+2019-06,Ceduna,STREAKY BAY,2 Bedrooms,8
+2019-06,Ceduna,STREAKY BAY,3 Bedrooms,6
+2019-06,Ceduna,THEVENARD,2 Bedrooms,5
+2019-06,Ceduna,THEVENARD,3 Bedrooms,15
+2019-06,Ceduna,THEVENARD,4+ Bedrooms,4
+2019-06,Port Lincoln,CLEVE,3 Bedrooms,6
+2019-06,Port Lincoln,CUMMINS,3 Bedrooms,2
+2019-06,Port Lincoln,ELLISTON,1 Bedroom,4
+2019-06,Port Lincoln,LOCK,1 Bedroom,2
+2019-06,Port Lincoln,PORT LINCOLN,1 Bedroom,64
+2019-06,Port Lincoln,PORT LINCOLN,2 Bedrooms,201
+2019-06,Port Lincoln,PORT LINCOLN,3 Bedrooms,348
+2019-06,Port Lincoln,PORT LINCOLN,4+ Bedrooms,18
+2019-06,Port Lincoln,TUMBY BAY,3 Bedrooms,6
+2019-06,Port Lincoln,WUDINNA,2 Bedrooms,11
+2019-06,Port Lincoln,WUDINNA,3 Bedrooms,2
+2019-06,Whyalla,COWELL,3 Bedrooms,2
+2019-06,Whyalla,WHYALLA,1 Bedroom,17
+2019-06,Whyalla,WHYALLA,2 Bedrooms,112
+2019-06,Whyalla,WHYALLA,3 Bedrooms,17
+2019-06,Whyalla,WHYALLA JENKINS,2 Bedrooms,4
+2019-06,Whyalla,WHYALLA JENKINS,3 Bedrooms,47
+2019-06,Whyalla,WHYALLA NORRIE,1 Bedroom,27
+2019-06,Whyalla,WHYALLA NORRIE,2 Bedrooms,24
+2019-06,Whyalla,WHYALLA NORRIE,3 Bedrooms,558
+2019-06,Whyalla,WHYALLA NORRIE,4+ Bedrooms,23
+2019-06,Whyalla,WHYALLA PLAYFORD,1 Bedroom,5
+2019-06,Whyalla,WHYALLA PLAYFORD,2 Bedrooms,51
+2019-06,Whyalla,WHYALLA PLAYFORD,3 Bedrooms,11
+2019-06,Whyalla,WHYALLA PLAYFORD,4+ Bedrooms,1
+2019-06,Whyalla,WHYALLA STUART,1 Bedroom,17
+2019-06,Whyalla,WHYALLA STUART,2 Bedrooms,122
+2019-06,Whyalla,WHYALLA STUART,3 Bedrooms,1011
+2019-06,Whyalla,WHYALLA STUART,4+ Bedrooms,52
